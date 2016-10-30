@@ -89,7 +89,7 @@ Skill.prototype.intentHandlers = {
 };
 
 function handleHelpRequest(response) {
-    response.ask("Ask me what's up!");
+    response.ask("I'm a Flyers fan just like you. I'll be here to keep you update to date on the latest score. Just ask me what's up!");
 }
 
 
@@ -207,7 +207,7 @@ function randomMessageByType(messageType) {
  }
 
 function weFailed(response,err) {    
-    var errorString =  randomMessageByType("ERROR") + " I can't get the scores right now. Try back in a back.";
+    var errorString =  randomMessageByType("ERROR") + " I can't get the scores right now. Try back in a bit.";
     console.log(gameResultsString);
     response.tell(errorString);
 }

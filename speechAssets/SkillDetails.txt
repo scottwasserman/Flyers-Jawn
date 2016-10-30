@@ -1,2 +1,23 @@
-Skill Name: Corporate BS Generator
-Invocation Name: corporate bs generator
+Skill Name: 
+Flyers Fan
+
+Invocation Name: 
+flyers fan
+
+Short Skill Description: 
+Get the score of the last Flyers game with Philly flare.
+
+Full Skill Description:
+Get the last Flyers score like any Philly sports fan wants to hear it.
+
+Source for this Skill and Lamdba available at:
+http://github.com/scottwasserman
+
+DISCLAIMER: This skill is not affiliated with The Flyers or NHL Enterprises, L.P. and uses publicly available data.
+
+Game content: Copyright NHL Enterprises, L.P. All Rights Reserved.
+
+Example Phrases:
+Alexa ask flyers fan what's up
+Alexa tell flyers fan to give me the score
+Alexa ask flyers fan how'd they do
