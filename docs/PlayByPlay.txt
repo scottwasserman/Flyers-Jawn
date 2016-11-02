@@ -1,0 +1,5867 @@
+{
+   "data":{
+      "refreshInterval":0,
+      "game":{
+         "awayteamid":4,
+         "awayteamname":"Philadelphia Flyers",
+         "hometeamname":"Los Angeles Kings",
+         "plays":{
+            "play":[
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"28",
+                  "hs":0,
+                  "desc":"Claude Giroux hit Drew Doughty",
+                  "formalEventId":"L.A5",
+                  "type":"Hit",
+                  "eventid":5,
+                  "hsog":0,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Drew Doughty",
+                  "time":"00:16",
+                  "localtime":"7:59 PM",
+                  "teamid":4,
+                  "xcoord":-97,
+                  "strength":701,
+                  "as":0,
+                  "pid":8473512,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-31,
+                  "playername":"Claude Giroux",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Claude Giroux",
+                  "pid2":8474563,
+                  "pid1":8473512
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"11",
+                  "hs":0,
+                  "desc":"Travis Konecny hit Brayden McNabb",
+                  "formalEventId":"L.A6",
+                  "type":"Hit",
+                  "eventid":6,
+                  "hsog":0,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Brayden McNabb",
+                  "time":"00:59",
+                  "localtime":"8:00 PM",
+                  "teamid":4,
+                  "xcoord":20,
+                  "strength":701,
+                  "as":0,
+                  "pid":8478439,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Travis Konecny",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Travis Konecny",
+                  "pid2":8475188,
+                  "pid1":8478439
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"23",
+                  "hs":0,
+                  "desc":"Brandon Manning hit Dustin Brown",
+                  "formalEventId":"L.A7",
+                  "type":"Hit",
+                  "eventid":7,
+                  "hsog":0,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"01:37",
+                  "localtime":"8:01 PM",
+                  "teamid":4,
+                  "xcoord":-91,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475430,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Brandon Manning",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Brandon Manning",
+                  "pid2":8470606,
+                  "pid1":8475430
+               },
+               {
+                  "aoi":[
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8476906,
+                     8477930
+                  ],
+                  "sweater":"10",
+                  "hs":0,
+                  "desc":"Devin Setoguchi Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A56",
+                  "type":"Shot",
+                  "eventid":56,
+                  "hsog":1,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"01:50",
+                  "localtime":"8:01 PM",
+                  "teamid":26,
+                  "xcoord":85,
+                  "strength":701,
+                  "as":0,
+                  "pid":8471682,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":7,
+                  "playername":"Devin Setoguchi",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8476406
+                  ],
+                  "p1name":"Devin Setoguchi",
+                  "pid2":8473607,
+                  "pid1":8471682
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8476906
+                  ],
+                  "sweater":"13",
+                  "hs":0,
+                  "desc":"Kyle Clifford hit Andrew MacDonald",
+                  "formalEventId":"L.A8",
+                  "type":"Hit",
+                  "eventid":8,
+                  "hsog":1,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andrew MacDonald",
+                  "time":"02:05",
+                  "localtime":"8:02 PM",
+                  "teamid":26,
+                  "xcoord":79,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475160,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-41,
+                  "playername":"Kyle Clifford",
+                  "hoi":[
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475160,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Kyle Clifford",
+                  "pid2":8473584,
+                  "pid1":8475160
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8477290
+                  ],
+                  "sweater":"24",
+                  "hs":0,
+                  "desc":"Matt Read hit Jake Muzzin",
+                  "formalEventId":"L.A9",
+                  "type":"Hit",
+                  "eventid":9,
+                  "hsog":1,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jake Muzzin",
+                  "time":"02:26",
+                  "localtime":"8:02 PM",
+                  "teamid":4,
+                  "xcoord":-7,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476177,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Matt Read",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474166,
+                     8475726
+                  ],
+                  "p1name":"Matt Read",
+                  "pid2":8474162,
+                  "pid1":8476177
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8477290
+                  ],
+                  "sweater":"74",
+                  "hs":0,
+                  "desc":"Dwight King Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A58",
+                  "type":"Shot",
+                  "eventid":58,
+                  "hsog":2,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"02:38",
+                  "localtime":"8:02 PM",
+                  "teamid":26,
+                  "xcoord":77,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474100,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-1,
+                  "playername":"Dwight King",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Dwight King",
+                  "pid2":8473607,
+                  "pid1":8474100
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"8",
+                  "hs":0,
+                  "desc":"Drew Doughty hit Brandon Manning",
+                  "formalEventId":"L.A11",
+                  "type":"Hit",
+                  "eventid":11,
+                  "hsog":2,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Brandon Manning",
+                  "time":"03:42",
+                  "localtime":"8:03 PM",
+                  "teamid":26,
+                  "xcoord":-1,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474563,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-32,
+                  "playername":"Drew Doughty",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Drew Doughty",
+                  "pid2":8475430,
+                  "pid1":8474563
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"22",
+                  "hs":0,
+                  "desc":"Trevor Lewis Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A59",
+                  "type":"Shot",
+                  "eventid":59,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"03:50",
+                  "localtime":"8:03 PM",
+                  "teamid":26,
+                  "xcoord":4,
+                  "strength":701,
+                  "as":0,
+                  "pid":8473453,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":2,
+                  "playername":"Trevor Lewis",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Trevor Lewis",
+                  "pid2":8473607,
+                  "pid1":8473453
+               },
+               {
+                  "aoi":[
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8476906,
+                     8477930
+                  ],
+                  "sweater":"78",
+                  "hs":0,
+                  "desc":"Pierre-Edouard Bellemare hit Derek Forbort",
+                  "formalEventId":"L.A12",
+                  "type":"Hit",
+                  "eventid":12,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Derek Forbort",
+                  "time":"04:23",
+                  "localtime":"8:04 PM",
+                  "teamid":4,
+                  "xcoord":4,
+                  "strength":701,
+                  "as":0,
+                  "pid":8477930,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Pierre-Edouard Bellemare",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474166,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Pierre-Edouard Bellemare",
+                  "pid2":8475762,
+                  "pid1":8477930
+               },
+               {
+                  "aoi":[
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8476906,
+                     8477930
+                  ],
+                  "sweater":"15",
+                  "hs":0,
+                  "desc":"Andy Andreoff hit Nick Cousins",
+                  "formalEventId":"L.A13",
+                  "type":"Hit",
+                  "eventid":13,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Nick Cousins",
+                  "time":"04:36",
+                  "localtime":"8:05 PM",
+                  "teamid":26,
+                  "xcoord":78,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476404,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":42,
+                  "playername":"Andy Andreoff",
+                  "hoi":[
+                     8470606,
+                     8473553,
+                     8474166,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Andy Andreoff",
+                  "pid2":8476393,
+                  "pid1":8476404
+               },
+               {
+                  "aoi":[
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8476906,
+                     8477930
+                  ],
+                  "sweater":"13",
+                  "hs":0,
+                  "desc":"Kyle Clifford hit Dale Weise",
+                  "formalEventId":"L.A106",
+                  "type":"Hit",
+                  "eventid":106,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dale Weise",
+                  "time":"04:43",
+                  "localtime":"8:05 PM",
+                  "teamid":26,
+                  "xcoord":19,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475160,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":38,
+                  "playername":"Kyle Clifford",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Kyle Clifford",
+                  "pid2":8474668,
+                  "pid1":8475160
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8476906
+                  ],
+                  "sweater":"15",
+                  "hs":0,
+                  "desc":"Andy Andreoff hit Matt Read",
+                  "formalEventId":"L.A14",
+                  "type":"Hit",
+                  "eventid":14,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Matt Read",
+                  "time":"04:53",
+                  "localtime":"8:05 PM",
+                  "teamid":26,
+                  "xcoord":76,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476404,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-41,
+                  "playername":"Andy Andreoff",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Andy Andreoff",
+                  "pid2":8476177,
+                  "pid1":8476404
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8476906
+                  ],
+                  "sweater":"15",
+                  "hs":0,
+                  "desc":"Andy Andreoff hit Andrew MacDonald",
+                  "formalEventId":"L.A15",
+                  "type":"Hit",
+                  "eventid":15,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andrew MacDonald",
+                  "time":"05:03",
+                  "localtime":"8:05 PM",
+                  "teamid":26,
+                  "xcoord":73,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476404,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":38,
+                  "playername":"Andy Andreoff",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Andy Andreoff",
+                  "pid2":8473584,
+                  "pid1":8476404
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8476906
+                  ],
+                  "sweater":"74",
+                  "hs":0,
+                  "desc":"Dwight King hit Andrew MacDonald",
+                  "formalEventId":"L.A16",
+                  "type":"Hit",
+                  "eventid":16,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andrew MacDonald",
+                  "time":"05:19",
+                  "localtime":"8:06 PM",
+                  "teamid":26,
+                  "xcoord":95,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474100,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":35,
+                  "playername":"Dwight King",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Dwight King",
+                  "pid2":8473584,
+                  "pid1":8474100
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"32",
+                  "hs":0,
+                  "desc":"Mark Streit hit Trevor Lewis",
+                  "formalEventId":"L.A17",
+                  "type":"Hit",
+                  "eventid":17,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Trevor Lewis",
+                  "time":"05:56",
+                  "localtime":"8:07 PM",
+                  "teamid":4,
+                  "xcoord":84,
+                  "strength":701,
+                  "as":0,
+                  "pid":8468309,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Mark Streit",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Mark Streit",
+                  "pid2":8473453,
+                  "pid1":8468309
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"22",
+                  "hs":0,
+                  "desc":"Trevor Lewis hit Ivan Provorov",
+                  "formalEventId":"L.A18",
+                  "type":"Hit",
+                  "eventid":18,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Ivan Provorov",
+                  "time":"06:16",
+                  "localtime":"8:07 PM",
+                  "teamid":26,
+                  "xcoord":97,
+                  "strength":701,
+                  "as":0,
+                  "pid":8473453,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-14,
+                  "playername":"Trevor Lewis",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Trevor Lewis",
+                  "pid2":8478500,
+                  "pid1":8473453
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8475430,
+                     8477290
+                  ],
+                  "sweater":"28",
+                  "hs":0,
+                  "desc":"Claude Giroux hit Dustin Brown",
+                  "formalEventId":"L.A19",
+                  "type":"Hit",
+                  "eventid":19,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"06:52",
+                  "localtime":"8:08 PM",
+                  "teamid":4,
+                  "xcoord":52,
+                  "strength":701,
+                  "as":0,
+                  "pid":8473512,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Claude Giroux",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Claude Giroux",
+                  "pid2":8470606,
+                  "pid1":8473512
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8476906,
+                     8478439
+                  ],
+                  "sweater":"14",
+                  "hs":0,
+                  "desc":"Sean Couturier hit Dustin Brown",
+                  "formalEventId":"L.A20",
+                  "type":"Hit",
+                  "eventid":20,
+                  "hsog":3,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"07:13",
+                  "localtime":"8:08 PM",
+                  "teamid":4,
+                  "xcoord":-63,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476461,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":39,
+                  "playername":"Sean Couturier",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Sean Couturier",
+                  "pid2":8470606,
+                  "pid1":8476461
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"8",
+                  "hs":0,
+                  "desc":"Drew Doughty Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A70",
+                  "type":"Shot",
+                  "eventid":70,
+                  "hsog":4,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"07:53",
+                  "localtime":"8:12 PM",
+                  "teamid":26,
+                  "xcoord":36,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474563,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":7,
+                  "playername":"Drew Doughty",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Drew Doughty",
+                  "pid2":8473607,
+                  "pid1":8474563
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"9",
+                  "hs":0,
+                  "desc":"Ivan Provorov hit Dustin Brown",
+                  "formalEventId":"L.A26",
+                  "type":"Hit",
+                  "eventid":26,
+                  "hsog":4,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"09:43",
+                  "localtime":"8:14 PM",
+                  "teamid":4,
+                  "xcoord":96,
+                  "strength":701,
+                  "as":0,
+                  "pid":8478500,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-25,
+                  "playername":"Ivan Provorov",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8476406
+                  ],
+                  "p1name":"Ivan Provorov",
+                  "pid2":8470606,
+                  "pid1":8478500
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"9",
+                  "hs":0,
+                  "desc":"Ivan Provorov hit Dustin Brown",
+                  "formalEventId":"L.A27",
+                  "type":"Hit",
+                  "eventid":27,
+                  "hsog":4,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"09:49",
+                  "localtime":"8:14 PM",
+                  "teamid":4,
+                  "xcoord":96,
+                  "strength":701,
+                  "as":0,
+                  "pid":8478500,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-9,
+                  "playername":"Ivan Provorov",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8476406
+                  ],
+                  "p1name":"Ivan Provorov",
+                  "pid2":8470606,
+                  "pid1":8478500
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8476461,
+                     8478500
+                  ],
+                  "sweater":"74",
+                  "hs":0,
+                  "desc":"Dwight King Backhand saved by Michal Neuvirth",
+                  "formalEventId":"L.A76",
+                  "type":"Shot",
+                  "eventid":76,
+                  "hsog":5,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"10:21",
+                  "localtime":"8:15 PM",
+                  "teamid":26,
+                  "xcoord":74,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474100,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":1,
+                  "playername":"Dwight King",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Dwight King",
+                  "pid2":8473607,
+                  "pid1":8474100
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8476461,
+                     8478500
+                  ],
+                  "sweater":"74",
+                  "hs":0,
+                  "desc":"Dwight King Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A28",
+                  "type":"Shot",
+                  "eventid":28,
+                  "hsog":6,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"10:26",
+                  "localtime":"8:15 PM",
+                  "teamid":26,
+                  "xcoord":80,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474100,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-1,
+                  "playername":"Dwight King",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Dwight King",
+                  "pid2":8473607,
+                  "pid1":8474100
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"73",
+                  "hs":0,
+                  "desc":"Tyler Toffoli Slap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A77",
+                  "type":"Shot",
+                  "eventid":77,
+                  "hsog":7,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"10:40",
+                  "localtime":"8:16 PM",
+                  "teamid":26,
+                  "xcoord":61,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475726,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-22,
+                  "playername":"Tyler Toffoli",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Tyler Toffoli",
+                  "pid2":8473607,
+                  "pid1":8475726
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8476393,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"71",
+                  "hs":0,
+                  "desc":"Jordan Nolan Snap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A81",
+                  "type":"Shot",
+                  "eventid":81,
+                  "hsog":8,
+                  "asog":0,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"12:40",
+                  "localtime":"8:20 PM",
+                  "teamid":26,
+                  "xcoord":55,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475325,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":27,
+                  "playername":"Jordan Nolan",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8475160,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Jordan Nolan",
+                  "pid2":8473607,
+                  "pid1":8475325
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"32",
+                  "hs":0,
+                  "desc":"Mark Streit Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A83",
+                  "type":"Shot",
+                  "eventid":83,
+                  "hsog":8,
+                  "asog":1,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"13:08",
+                  "localtime":"8:21 PM",
+                  "teamid":4,
+                  "xcoord":-35,
+                  "strength":701,
+                  "as":0,
+                  "pid":8468309,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":18,
+                  "playername":"Mark Streit",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474166,
+                     8475188,
+                     8476406
+                  ],
+                  "p1name":"Mark Streit",
+                  "pid2":8473553,
+                  "pid1":8468309
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"8",
+                  "hs":0,
+                  "desc":"Drew Doughty hit Michael Raffl",
+                  "formalEventId":"L.A30",
+                  "type":"Hit",
+                  "eventid":30,
+                  "hsog":8,
+                  "asog":1,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michael Raffl",
+                  "time":"13:37",
+                  "localtime":"8:22 PM",
+                  "teamid":26,
+                  "xcoord":-68,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474563,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Drew Doughty",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Drew Doughty",
+                  "pid2":8477290,
+                  "pid1":8474563
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"6",
+                  "hs":0,
+                  "desc":"Jake Muzzin hit Wayne Simmonds",
+                  "formalEventId":"L.A31",
+                  "type":"Hit",
+                  "eventid":31,
+                  "hsog":8,
+                  "asog":1,
+                  "apb":[
+
+                  ],
+                  "p2name":"Wayne Simmonds",
+                  "time":"14:02",
+                  "localtime":"8:22 PM",
+                  "teamid":26,
+                  "xcoord":-98,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474162,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-11,
+                  "playername":"Jake Muzzin",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Jake Muzzin",
+                  "pid2":8474190,
+                  "pid1":8474162
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8475430,
+                     8476177
+                  ],
+                  "sweater":"24",
+                  "hs":0,
+                  "desc":"Matt Read Snap Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A87",
+                  "type":"Shot",
+                  "eventid":87,
+                  "hsog":8,
+                  "asog":2,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"14:29",
+                  "localtime":"8:23 PM",
+                  "teamid":4,
+                  "xcoord":-83,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476177,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":17,
+                  "playername":"Matt Read",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Matt Read",
+                  "pid2":8473553,
+                  "pid1":8476177
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8475430,
+                     8476177
+                  ],
+                  "sweater":"27",
+                  "hs":0,
+                  "desc":"Boyd Gordon hit Trevor Lewis",
+                  "formalEventId":"L.A33",
+                  "type":"Hit",
+                  "eventid":33,
+                  "hsog":8,
+                  "asog":2,
+                  "apb":[
+
+                  ],
+                  "p2name":"Trevor Lewis",
+                  "time":"14:37",
+                  "localtime":"8:23 PM",
+                  "teamid":4,
+                  "xcoord":-9,
+                  "strength":701,
+                  "as":0,
+                  "pid":8470159,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-38,
+                  "playername":"Boyd Gordon",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Boyd Gordon",
+                  "pid2":8473453,
+                  "pid1":8470159
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8475430,
+                     8476177
+                  ],
+                  "sweater":"2",
+                  "hs":0,
+                  "desc":"Matt Greene hit Chris VandeVelde",
+                  "formalEventId":"L.A34",
+                  "type":"Hit",
+                  "eventid":34,
+                  "hsog":8,
+                  "asog":2,
+                  "apb":[
+
+                  ],
+                  "p2name":"Chris VandeVelde",
+                  "time":"15:06",
+                  "localtime":"8:23 PM",
+                  "teamid":26,
+                  "xcoord":-49,
+                  "strength":701,
+                  "as":0,
+                  "pid":8470121,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Matt Greene",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Matt Greene",
+                  "pid2":8471762,
+                  "pid1":8470121
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"13",
+                  "hs":0,
+                  "desc":"Kyle Clifford hit Ivan Provorov",
+                  "formalEventId":"L.A35",
+                  "type":"Hit",
+                  "eventid":35,
+                  "hsog":8,
+                  "asog":2,
+                  "apb":[
+
+                  ],
+                  "p2name":"Ivan Provorov",
+                  "time":"15:30",
+                  "localtime":"8:24 PM",
+                  "teamid":26,
+                  "xcoord":79,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475160,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":38,
+                  "playername":"Kyle Clifford",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Kyle Clifford",
+                  "pid2":8478500,
+                  "pid1":8475160
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"13",
+                  "hs":0,
+                  "desc":"Kyle Clifford hit Ivan Provorov",
+                  "formalEventId":"L.A36",
+                  "type":"Hit",
+                  "eventid":36,
+                  "hsog":8,
+                  "asog":2,
+                  "apb":[
+
+                  ],
+                  "p2name":"Ivan Provorov",
+                  "time":"15:37",
+                  "localtime":"8:24 PM",
+                  "teamid":26,
+                  "xcoord":95,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475160,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":29,
+                  "playername":"Kyle Clifford",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Kyle Clifford",
+                  "pid2":8478500,
+                  "pid1":8475160
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8476906,
+                     8478439
+                  ],
+                  "sweater":"15",
+                  "hs":0,
+                  "desc":"Andy Andreoff Boarding against Travis Konecny",
+                  "formalEventId":"L.A38",
+                  "type":"Penalty",
+                  "hsog":8,
+                  "eventid":38,
+                  "asog":2,
+                  "apb":[
+
+                  ],
+                  "p2name":"Travis Konecny",
+                  "time":"15:53",
+                  "localtime":"8:24 PM",
+                  "teamid":26,
+                  "xcoord":-66,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476404,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+                     8476404
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "dur":2,
+                  "playername":"Andy Andreoff",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Andy Andreoff",
+                  "pid2":8478439,
+                  "pid1":8476404
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"25",
+                  "hs":0,
+                  "desc":"Nick Cousins Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A89",
+                  "type":"Shot",
+                  "eventid":89,
+                  "hsog":8,
+                  "asog":3,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"16:28",
+                  "localtime":"8:27 PM",
+                  "teamid":4,
+                  "xcoord":-68,
+                  "strength":702,
+                  "as":0,
+                  "pid":8476393,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+                     8476404
+                  ],
+                  "pid3":"",
+                  "ycoord":-11,
+                  "playername":"Nick Cousins",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Nick Cousins",
+                  "pid2":8473553,
+                  "pid1":8476393
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"32",
+                  "hs":0,
+                  "desc":"Mark Streit Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A91",
+                  "type":"Shot",
+                  "eventid":91,
+                  "hsog":8,
+                  "asog":4,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"17:08",
+                  "localtime":"8:28 PM",
+                  "teamid":4,
+                  "xcoord":-82,
+                  "strength":702,
+                  "as":0,
+                  "pid":8468309,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+                     8476404
+                  ],
+                  "pid3":"",
+                  "ycoord":20,
+                  "playername":"Mark Streit",
+                  "hoi":[
+                     8470604,
+                     8473553,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Mark Streit",
+                  "pid2":8473553,
+                  "pid1":8468309
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"24",
+                  "hs":0,
+                  "desc":"Derek Forbort hit Claude Giroux",
+                  "formalEventId":"L.A42",
+                  "type":"Hit",
+                  "eventid":42,
+                  "hsog":8,
+                  "asog":4,
+                  "apb":[
+
+                  ],
+                  "p2name":"Claude Giroux",
+                  "time":"17:47",
+                  "localtime":"8:29 PM",
+                  "teamid":26,
+                  "xcoord":-56,
+                  "strength":703,
+                  "as":0,
+                  "pid":8475762,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Derek Forbort",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8474100,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Derek Forbort",
+                  "pid2":8473512,
+                  "pid1":8475762
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"77",
+                  "hs":0,
+                  "desc":"Jeff Carter Backhand saved by Michal Neuvirth",
+                  "formalEventId":"L.A95",
+                  "type":"Shot",
+                  "eventid":95,
+                  "hsog":9,
+                  "asog":4,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"19:43",
+                  "localtime":"8:32 PM",
+                  "teamid":26,
+                  "xcoord":83,
+                  "strength":701,
+                  "as":0,
+                  "pid":8470604,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-8,
+                  "playername":"Jeff Carter",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474563,
+                     8475188
+                  ],
+                  "p1name":"Jeff Carter",
+                  "pid2":8473607,
+                  "pid1":8470604
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"77",
+                  "hs":0,
+                  "desc":"Jeff Carter Backhand saved by Michal Neuvirth",
+                  "formalEventId":"L.A96",
+                  "type":"Shot",
+                  "eventid":96,
+                  "hsog":10,
+                  "asog":4,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"19:49",
+                  "localtime":"8:32 PM",
+                  "teamid":26,
+                  "xcoord":87,
+                  "strength":701,
+                  "as":0,
+                  "pid":8470604,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":15,
+                  "playername":"Jeff Carter",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474563,
+                     8475188
+                  ],
+                  "p1name":"Jeff Carter",
+                  "pid2":8473607,
+                  "pid1":8470604
+               },
+               {
+                  "aoi":[
+                     8471762,
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906
+                  ],
+                  "sweater":"17",
+                  "hs":0,
+                  "desc":"Wayne Simmonds Slashing against Nick Shore",
+                  "formalEventId":"L.A47",
+                  "type":"Penalty",
+                  "hsog":10,
+                  "eventid":47,
+                  "asog":4,
+                  "apb":[
+                     8474190
+                  ],
+                  "p2name":"Nick Shore",
+                  "time":"20:00",
+                  "localtime":"8:32 PM",
+                  "teamid":4,
+                  "xcoord":11,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474190,
+                  "period":1,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":28,
+                  "dur":2,
+                  "playername":"Wayne Simmonds",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Wayne Simmonds",
+                  "pid2":8476406,
+                  "pid1":8474190
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8468513,
+                     8473607,
+                     8476177,
+                     8476461
+                  ],
+                  "sweater":"24",
+                  "hs":0,
+                  "desc":"Matt Read Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A254",
+                  "type":"Shot",
+                  "eventid":254,
+                  "hsog":10,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"01:03",
+                  "localtime":"8:53 PM",
+                  "teamid":4,
+                  "xcoord":36,
+                  "strength":703,
+                  "as":0,
+                  "pid":8476177,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":34,
+                  "playername":"Matt Read",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8473962,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Matt Read",
+                  "pid2":8473553,
+                  "pid1":8476177
+               },
+               {
+                  "aoi":[
+                     8471762,
+                     8473584,
+                     8473607,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"76",
+                  "hs":0,
+                  "desc":"Chris VandeVelde hit Teddy Purcell",
+                  "formalEventId":"L.A123",
+                  "type":"Hit",
+                  "eventid":123,
+                  "hsog":10,
+                  "asog":5,
+                  "apb":[
+                     8474190
+                  ],
+                  "p2name":"Teddy Purcell",
+                  "time":"01:26",
+                  "localtime":"8:53 PM",
+                  "teamid":4,
+                  "xcoord":-37,
+                  "strength":703,
+                  "as":0,
+                  "pid":8471762,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":41,
+                  "playername":"Chris VandeVelde",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8473962,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Chris VandeVelde",
+                  "pid2":8473962,
+                  "pid1":8471762
+               },
+               {
+                  "aoi":[
+                     8471762,
+                     8473584,
+                     8473607,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"27",
+                  "hs":0,
+                  "desc":"Alec Martinez Snap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A352",
+                  "type":"Shot",
+                  "eventid":352,
+                  "hsog":11,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"01:55",
+                  "localtime":"8:54 PM",
+                  "teamid":26,
+                  "xcoord":-48,
+                  "strength":702,
+                  "as":0,
+                  "pid":8474166,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":27,
+                  "playername":"Alec Martinez",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8473962,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Alec Martinez",
+                  "pid2":8473607,
+                  "pid1":8474166
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476906
+                  ],
+                  "sweater":"17",
+                  "hs":0,
+                  "desc":"Wayne Simmonds hit Brayden McNabb",
+                  "formalEventId":"L.A255",
+                  "type":"Hit",
+                  "eventid":255,
+                  "hsog":11,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Brayden McNabb",
+                  "time":"02:17",
+                  "localtime":"8:54 PM",
+                  "teamid":4,
+                  "xcoord":37,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474190,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Wayne Simmonds",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8476406
+                  ],
+                  "p1name":"Wayne Simmonds",
+                  "pid2":8475188,
+                  "pid1":8474190
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476906
+                  ],
+                  "sweater":"27",
+                  "hs":0,
+                  "desc":"Alec Martinez hit Jakub Voracek",
+                  "formalEventId":"L.A256",
+                  "type":"Hit",
+                  "eventid":256,
+                  "hsog":11,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jakub Voracek",
+                  "time":"02:27",
+                  "localtime":"8:55 PM",
+                  "teamid":26,
+                  "xcoord":97,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474166,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":19,
+                  "playername":"Alec Martinez",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8476406
+                  ],
+                  "p1name":"Alec Martinez",
+                  "pid2":8474161,
+                  "pid1":8474166
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476906
+                  ],
+                  "sweater":"17",
+                  "hs":0,
+                  "desc":"Wayne Simmonds hit Brayden McNabb",
+                  "formalEventId":"L.A257",
+                  "type":"Hit",
+                  "eventid":257,
+                  "hsog":11,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Brayden McNabb",
+                  "time":"02:34",
+                  "localtime":"8:55 PM",
+                  "teamid":4,
+                  "xcoord":92,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474190,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":40,
+                  "playername":"Wayne Simmonds",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8476406
+                  ],
+                  "p1name":"Wayne Simmonds",
+                  "pid2":8475188,
+                  "pid1":8474190
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476906
+                  ],
+                  "sweater":"21",
+                  "hs":0,
+                  "desc":"Nick Shore Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A354",
+                  "type":"Shot",
+                  "eventid":354,
+                  "hsog":12,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"02:55",
+                  "localtime":"8:55 PM",
+                  "teamid":26,
+                  "xcoord":-78,
+                  "strength":701,
+                  "as":0,
+                  "pid":8476406,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":10,
+                  "playername":"Nick Shore",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8476406
+                  ],
+                  "p1name":"Nick Shore",
+                  "pid2":8473607,
+                  "pid1":8476406
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"8",
+                  "hs":0,
+                  "desc":"Drew Doughty Slap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A355",
+                  "type":"Shot",
+                  "eventid":355,
+                  "hsog":13,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"03:06",
+                  "localtime":"8:55 PM",
+                  "teamid":26,
+                  "xcoord":-51,
+                  "strength":701,
+                  "as":0,
+                  "pid":8474563,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":29,
+                  "playername":"Drew Doughty",
+                  "hoi":[
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475160,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Drew Doughty",
+                  "pid2":8473607,
+                  "pid1":8474563
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8470159,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393
+                  ],
+                  "sweater":"23",
+                  "hs":0,
+                  "desc":"Brandon Manning hit Kyle Clifford",
+                  "formalEventId":"L.A259",
+                  "type":"Hit",
+                  "eventid":259,
+                  "hsog":13,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Kyle Clifford",
+                  "time":"03:40",
+                  "localtime":"8:56 PM",
+                  "teamid":4,
+                  "xcoord":-3,
+                  "strength":701,
+                  "as":0,
+                  "pid":8475430,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-41,
+                  "playername":"Brandon Manning",
+                  "hoi":[
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475160,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Brandon Manning",
+                  "pid2":8475160,
+                  "pid1":8475430
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8470159,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393
+                  ],
+                  "sweater":"27",
+                  "hs":0,
+                  "desc":"Boyd Gordon (1) Wrist Shot, assists: Nick Cousins (1), Brandon Manning (1)",
+                  "formalEventId":"L.A357",
+                  "type":"Goal",
+                  "eventid":357,
+                  "hsog":13,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Nick Cousins",
+                  "time":"03:55",
+                  "localtime":"8:56 PM",
+                  "teamid":4,
+                  "xcoord":58,
+                  "strength":701,
+                  "as":1,
+                  "pid":8470159,
+                  "period":2,
+                  "p3name":"Brandon Manning",
+                  "hpb":[
+
+                  ],
+                  "pid3":8475430,
+                  "ycoord":1,
+                  "playername":"Boyd Gordon",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8475325,
+                     8475762
+                  ],
+                  "p1name":"Boyd Gordon",
+                  "pid2":8476393,
+                  "pid1":8470159
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"23",
+                  "hs":0,
+                  "desc":"Brandon Manning hit Trevor Lewis",
+                  "formalEventId":"L.A126",
+                  "type":"Hit",
+                  "eventid":126,
+                  "hsog":13,
+                  "asog":5,
+                  "apb":[
+
+                  ],
+                  "p2name":"Trevor Lewis",
+                  "time":"04:03",
+                  "localtime":"8:57 PM",
+                  "teamid":4,
+                  "xcoord":13,
+                  "strength":701,
+                  "as":1,
+                  "pid":8475430,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-39,
+                  "playername":"Brandon Manning",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Brandon Manning",
+                  "pid2":8473453,
+                  "pid1":8475430
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8476906,
+                     8478439
+                  ],
+                  "sweater":"11",
+                  "hs":0,
+                  "desc":"Travis Konecny Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A358",
+                  "type":"Shot",
+                  "eventid":358,
+                  "hsog":13,
+                  "asog":6,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"04:27",
+                  "localtime":"8:57 PM",
+                  "teamid":4,
+                  "xcoord":75,
+                  "strength":701,
+                  "as":1,
+                  "pid":8478439,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-31,
+                  "playername":"Travis Konecny",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Travis Konecny",
+                  "pid2":8473553,
+                  "pid1":8478439
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476461,
+                     8476906,
+                     8478439
+                  ],
+                  "sweater":"11",
+                  "hs":0,
+                  "desc":"Travis Konecny Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A359",
+                  "type":"Shot",
+                  "eventid":359,
+                  "hsog":13,
+                  "asog":7,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"04:42",
+                  "localtime":"8:58 PM",
+                  "teamid":4,
+                  "xcoord":76,
+                  "strength":701,
+                  "as":1,
+                  "pid":8478439,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":2,
+                  "playername":"Travis Konecny",
+                  "hoi":[
+                     8470121,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Travis Konecny",
+                  "pid2":8473553,
+                  "pid1":8478439
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476461,
+                     8476906,
+                     8478439
+                  ],
+                  "sweater":"14",
+                  "hs":0,
+                  "desc":"Sean Couturier (1) Wrist Shot, assists: Travis Konecny (1), Shayne Gostisbehere (1)",
+                  "formalEventId":"L.A360",
+                  "type":"Goal",
+                  "eventid":360,
+                  "hsog":13,
+                  "asog":7,
+                  "apb":[
+
+                  ],
+                  "p2name":"Travis Konecny",
+                  "time":"04:43",
+                  "localtime":"8:58 PM",
+                  "teamid":4,
+                  "xcoord":82,
+                  "strength":701,
+                  "as":2,
+                  "pid":8476461,
+                  "period":2,
+                  "p3name":"Shayne Gostisbehere",
+                  "hpb":[
+
+                  ],
+                  "pid3":8476906,
+                  "ycoord":-4,
+                  "playername":"Sean Couturier",
+                  "hoi":[
+                     8470121,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Sean Couturier",
+                  "pid2":8478439,
+                  "pid1":8476461
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"27",
+                  "hs":0,
+                  "desc":"Alec Martinez Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A361",
+                  "type":"Shot",
+                  "eventid":361,
+                  "hsog":14,
+                  "asog":7,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"05:09",
+                  "localtime":"8:59 PM",
+                  "teamid":26,
+                  "xcoord":-31,
+                  "strength":701,
+                  "as":2,
+                  "pid":8474166,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-1,
+                  "playername":"Alec Martinez",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Alec Martinez",
+                  "pid2":8473607,
+                  "pid1":8474166
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"73",
+                  "hs":0,
+                  "desc":"Tyler Toffoli Snap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A362",
+                  "type":"Shot",
+                  "eventid":362,
+                  "hsog":15,
+                  "asog":7,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"05:18",
+                  "localtime":"8:59 PM",
+                  "teamid":26,
+                  "xcoord":-69,
+                  "strength":701,
+                  "as":2,
+                  "pid":8475726,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":5,
+                  "playername":"Tyler Toffoli",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Tyler Toffoli",
+                  "pid2":8473607,
+                  "pid1":8475726
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8476393,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"6",
+                  "hs":0,
+                  "desc":"Jake Muzzin hit Nick Cousins",
+                  "formalEventId":"L.A130",
+                  "type":"Hit",
+                  "eventid":130,
+                  "hsog":15,
+                  "asog":7,
+                  "apb":[
+
+                  ],
+                  "p2name":"Nick Cousins",
+                  "time":"05:43",
+                  "localtime":"9:00 PM",
+                  "teamid":26,
+                  "xcoord":96,
+                  "strength":701,
+                  "as":2,
+                  "pid":8474162,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-23,
+                  "playername":"Jake Muzzin",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8476406
+                  ],
+                  "p1name":"Jake Muzzin",
+                  "pid2":8476393,
+                  "pid1":8474162
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8476906
+                  ],
+                  "sweater":"53",
+                  "hs":0,
+                  "desc":"Shayne Gostisbehere Snap Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A366",
+                  "type":"Shot",
+                  "eventid":366,
+                  "hsog":15,
+                  "asog":8,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"07:01",
+                  "localtime":"9:01 PM",
+                  "teamid":4,
+                  "xcoord":57,
+                  "strength":701,
+                  "as":2,
+                  "pid":8476906,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":8,
+                  "playername":"Shayne Gostisbehere",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8475160,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Shayne Gostisbehere",
+                  "pid2":8473553,
+                  "pid1":8476906
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"17",
+                  "hs":0,
+                  "desc":"Wayne Simmonds Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A368",
+                  "type":"Shot",
+                  "eventid":368,
+                  "hsog":15,
+                  "asog":9,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"07:10",
+                  "localtime":"9:03 PM",
+                  "teamid":4,
+                  "xcoord":74,
+                  "strength":701,
+                  "as":2,
+                  "pid":8474190,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":3,
+                  "playername":"Wayne Simmonds",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Wayne Simmonds",
+                  "pid2":8473553,
+                  "pid1":8474190
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"47",
+                  "hs":0,
+                  "desc":"Andrew MacDonald Slap Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A370",
+                  "type":"Shot",
+                  "eventid":370,
+                  "hsog":15,
+                  "asog":10,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"07:15",
+                  "localtime":"9:04 PM",
+                  "teamid":4,
+                  "xcoord":50,
+                  "strength":701,
+                  "as":2,
+                  "pid":8473584,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":31,
+                  "playername":"Andrew MacDonald",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Andrew MacDonald",
+                  "pid2":8473553,
+                  "pid1":8473584
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"11",
+                  "hs":0,
+                  "desc":"Anze Kopitar Snap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A374",
+                  "type":"Shot",
+                  "eventid":374,
+                  "hsog":16,
+                  "asog":10,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"08:21",
+                  "localtime":"9:05 PM",
+                  "teamid":26,
+                  "xcoord":-66,
+                  "strength":701,
+                  "as":2,
+                  "pid":8471685,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-20,
+                  "playername":"Anze Kopitar",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474563,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Anze Kopitar",
+                  "pid2":8473607,
+                  "pid1":8471685
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"9",
+                  "hs":0,
+                  "desc":"Ivan Provorov hit Dwight King",
+                  "formalEventId":"L.A266",
+                  "type":"Hit",
+                  "eventid":266,
+                  "hsog":16,
+                  "asog":10,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dwight King",
+                  "time":"08:27",
+                  "localtime":"9:05 PM",
+                  "teamid":4,
+                  "xcoord":-72,
+                  "strength":701,
+                  "as":2,
+                  "pid":8478500,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-39,
+                  "playername":"Ivan Provorov",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Ivan Provorov",
+                  "pid2":8474100,
+                  "pid1":8478500
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"93",
+                  "hs":0,
+                  "desc":"Jakub Voracek Tip-In saved by Jeff Zatkoff",
+                  "formalEventId":"L.A375",
+                  "type":"Shot",
+                  "eventid":375,
+                  "hsog":16,
+                  "asog":11,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"08:54",
+                  "localtime":"9:06 PM",
+                  "teamid":4,
+                  "xcoord":80,
+                  "strength":701,
+                  "as":2,
+                  "pid":8474161,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":3,
+                  "playername":"Jakub Voracek",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Jakub Voracek",
+                  "pid2":8473553,
+                  "pid1":8474161
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"24",
+                  "hs":0,
+                  "desc":"Derek Forbort hit Nick Cousins",
+                  "formalEventId":"L.A267",
+                  "type":"Hit",
+                  "eventid":267,
+                  "hsog":16,
+                  "asog":11,
+                  "apb":[
+
+                  ],
+                  "p2name":"Nick Cousins",
+                  "time":"09:02",
+                  "localtime":"9:06 PM",
+                  "teamid":26,
+                  "xcoord":57,
+                  "strength":701,
+                  "as":2,
+                  "pid":8475762,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Derek Forbort",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Derek Forbort",
+                  "pid2":8476393,
+                  "pid1":8475762
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"23",
+                  "hs":0,
+                  "desc":"Dustin Brown Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A377",
+                  "type":"Shot",
+                  "eventid":377,
+                  "hsog":17,
+                  "asog":11,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"09:11",
+                  "localtime":"9:06 PM",
+                  "teamid":26,
+                  "xcoord":-14,
+                  "strength":701,
+                  "as":2,
+                  "pid":8470606,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":5,
+                  "playername":"Dustin Brown",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Dustin Brown",
+                  "pid2":8473607,
+                  "pid1":8470606
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"78",
+                  "hs":0,
+                  "desc":"Pierre-Edouard Bellemare Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A379",
+                  "type":"Shot",
+                  "eventid":379,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"09:38",
+                  "localtime":"9:07 PM",
+                  "teamid":4,
+                  "xcoord":75,
+                  "strength":701,
+                  "as":2,
+                  "pid":8477930,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":35,
+                  "playername":"Pierre-Edouard Bellemare",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8473553,
+                     8475762,
+                     8476406
+                  ],
+                  "p1name":"Pierre-Edouard Bellemare",
+                  "pid2":8473553,
+                  "pid1":8477930
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8473607,
+                     8476177,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"12",
+                  "hs":0,
+                  "desc":"Michael Raffl hit Drew Doughty",
+                  "formalEventId":"L.A269",
+                  "type":"Hit",
+                  "eventid":269,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Drew Doughty",
+                  "time":"10:16",
+                  "localtime":"9:09 PM",
+                  "teamid":4,
+                  "xcoord":95,
+                  "strength":701,
+                  "as":2,
+                  "pid":8477290,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":8,
+                  "playername":"Michael Raffl",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Michael Raffl",
+                  "pid2":8474563,
+                  "pid1":8477290
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"9",
+                  "hs":0,
+                  "desc":"Ivan Provorov hit Jordan Nolan",
+                  "formalEventId":"L.A271",
+                  "type":"Hit",
+                  "eventid":271,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jordan Nolan",
+                  "time":"10:44",
+                  "localtime":"9:09 PM",
+                  "teamid":4,
+                  "xcoord":-59,
+                  "strength":701,
+                  "as":2,
+                  "pid":8478500,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":37,
+                  "playername":"Ivan Provorov",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475160,
+                     8475325
+                  ],
+                  "p1name":"Ivan Provorov",
+                  "pid2":8475325,
+                  "pid1":8478500
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"13",
+                  "hs":0,
+                  "desc":"Kyle Clifford hit Boyd Gordon",
+                  "formalEventId":"L.A138",
+                  "type":"Hit",
+                  "eventid":138,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Boyd Gordon",
+                  "time":"10:49",
+                  "localtime":"9:09 PM",
+                  "teamid":26,
+                  "xcoord":-91,
+                  "strength":701,
+                  "as":2,
+                  "pid":8475160,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":35,
+                  "playername":"Kyle Clifford",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Kyle Clifford",
+                  "pid2":8470159,
+                  "pid1":8475160
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"32",
+                  "hs":0,
+                  "desc":"Mark Streit hit Kyle Clifford",
+                  "formalEventId":"L.A272",
+                  "type":"Hit",
+                  "eventid":272,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Kyle Clifford",
+                  "time":"11:17",
+                  "localtime":"9:10 PM",
+                  "teamid":4,
+                  "xcoord":-98,
+                  "strength":701,
+                  "as":2,
+                  "pid":8468309,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-23,
+                  "playername":"Mark Streit",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325,
+                     8476404
+                  ],
+                  "p1name":"Mark Streit",
+                  "pid2":8475160,
+                  "pid1":8468309
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"15",
+                  "hs":0,
+                  "desc":"Andy Andreoff hit Boyd Gordon",
+                  "formalEventId":"L.A273",
+                  "type":"Hit",
+                  "eventid":273,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Boyd Gordon",
+                  "time":"11:33",
+                  "localtime":"9:10 PM",
+                  "teamid":26,
+                  "xcoord":-12,
+                  "strength":701,
+                  "as":2,
+                  "pid":8476404,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Andy Andreoff",
+                  "hoi":[
+                     8473553,
+                     8473962,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8476404
+                  ],
+                  "p1name":"Andy Andreoff",
+                  "pid2":8470159,
+                  "pid1":8476404
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"14",
+                  "hs":0,
+                  "desc":"Sean Couturier (2) Wrist Shot, assists: Travis Konecny (2), Jakub Voracek (1)",
+                  "formalEventId":"L.A384",
+                  "type":"Goal",
+                  "eventid":384,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Travis Konecny",
+                  "time":"12:04",
+                  "localtime":"9:11 PM",
+                  "teamid":4,
+                  "xcoord":76,
+                  "strength":701,
+                  "as":3,
+                  "pid":8476461,
+                  "period":2,
+                  "p3name":"Jakub Voracek",
+                  "hpb":[
+
+                  ],
+                  "pid3":8474161,
+                  "ycoord":-12,
+                  "playername":"Sean Couturier",
+                  "hoi":[
+                     8470121,
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762
+                  ],
+                  "p1name":"Sean Couturier",
+                  "pid2":8478439,
+                  "pid1":8476461
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"73",
+                  "hs":0,
+                  "desc":"Tyler Toffoli hit Dale Weise",
+                  "formalEventId":"L.A275",
+                  "type":"Hit",
+                  "eventid":275,
+                  "hsog":17,
+                  "asog":12,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dale Weise",
+                  "time":"12:23",
+                  "localtime":"9:12 PM",
+                  "teamid":26,
+                  "xcoord":-91,
+                  "strength":701,
+                  "as":3,
+                  "pid":8475726,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-38,
+                  "playername":"Tyler Toffoli",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Tyler Toffoli",
+                  "pid2":8474668,
+                  "pid1":8475726
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"28",
+                  "hs":0,
+                  "desc":"Claude Giroux Snap Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A387",
+                  "type":"Shot",
+                  "eventid":387,
+                  "hsog":17,
+                  "asog":13,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"12:59",
+                  "localtime":"9:13 PM",
+                  "teamid":4,
+                  "xcoord":56,
+                  "strength":701,
+                  "as":3,
+                  "pid":8473512,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-19,
+                  "playername":"Claude Giroux",
+                  "hoi":[
+                     8471682,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Claude Giroux",
+                  "pid2":8473553,
+                  "pid1":8473512
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"27",
+                  "hs":0,
+                  "desc":"Alec Martinez hit Dale Weise",
+                  "formalEventId":"L.A277",
+                  "type":"Hit",
+                  "eventid":277,
+                  "hsog":17,
+                  "asog":13,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dale Weise",
+                  "time":"14:29",
+                  "localtime":"9:18 PM",
+                  "teamid":26,
+                  "xcoord":51,
+                  "strength":701,
+                  "as":3,
+                  "pid":8474166,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":39,
+                  "playername":"Alec Martinez",
+                  "hoi":[
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Alec Martinez",
+                  "pid2":8474668,
+                  "pid1":8474166
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"25",
+                  "hs":0,
+                  "desc":"Nick Cousins Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A390",
+                  "type":"Shot",
+                  "eventid":390,
+                  "hsog":17,
+                  "asog":14,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"14:56",
+                  "localtime":"9:18 PM",
+                  "teamid":4,
+                  "xcoord":78,
+                  "strength":701,
+                  "as":3,
+                  "pid":8476393,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":4,
+                  "playername":"Nick Cousins",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8475160,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Nick Cousins",
+                  "pid2":8473553,
+                  "pid1":8476393
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"23",
+                  "hs":0,
+                  "desc":"Brandon Manning Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A391",
+                  "type":"Shot",
+                  "eventid":391,
+                  "hsog":17,
+                  "asog":15,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"15:04",
+                  "localtime":"9:18 PM",
+                  "teamid":4,
+                  "xcoord":76,
+                  "strength":701,
+                  "as":3,
+                  "pid":8475430,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-11,
+                  "playername":"Brandon Manning",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8475160,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Brandon Manning",
+                  "pid2":8473553,
+                  "pid1":8475430
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"17",
+                  "hs":0,
+                  "desc":"Wayne Simmonds hit Andy Andreoff",
+                  "formalEventId":"L.A278",
+                  "type":"Hit",
+                  "eventid":278,
+                  "hsog":17,
+                  "asog":15,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andy Andreoff",
+                  "time":"15:26",
+                  "localtime":"9:19 PM",
+                  "teamid":4,
+                  "xcoord":82,
+                  "strength":701,
+                  "as":3,
+                  "pid":8474190,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":39,
+                  "playername":"Wayne Simmonds",
+                  "hoi":[
+                     8470121,
+                     8473453,
+                     8473553,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Wayne Simmonds",
+                  "pid2":8476404,
+                  "pid1":8474190
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"17",
+                  "hs":0,
+                  "desc":"Wayne Simmonds hit Derek Forbort",
+                  "formalEventId":"L.A144",
+                  "type":"Hit",
+                  "eventid":144,
+                  "hsog":17,
+                  "asog":15,
+                  "apb":[
+
+                  ],
+                  "p2name":"Derek Forbort",
+                  "time":"15:33",
+                  "localtime":"9:19 PM",
+                  "teamid":4,
+                  "xcoord":94,
+                  "strength":701,
+                  "as":3,
+                  "pid":8474190,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-35,
+                  "playername":"Wayne Simmonds",
+                  "hoi":[
+                     8470121,
+                     8473453,
+                     8473553,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Wayne Simmonds",
+                  "pid2":8475762,
+                  "pid1":8474190
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8476177,
+                     8477290,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"24",
+                  "hs":0,
+                  "desc":"Matt Read Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A394",
+                  "type":"Shot",
+                  "eventid":394,
+                  "hsog":17,
+                  "asog":16,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"15:43",
+                  "localtime":"9:19 PM",
+                  "teamid":4,
+                  "xcoord":68,
+                  "strength":701,
+                  "as":3,
+                  "pid":8476177,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-7,
+                  "playername":"Matt Read",
+                  "hoi":[
+                     8470121,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Matt Read",
+                  "pid2":8473553,
+                  "pid1":8476177
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"9",
+                  "hs":0,
+                  "desc":"Ivan Provorov Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A147",
+                  "type":"Shot",
+                  "eventid":147,
+                  "hsog":17,
+                  "asog":17,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"15:48",
+                  "localtime":"9:22 PM",
+                  "teamid":4,
+                  "xcoord":55,
+                  "strength":701,
+                  "as":3,
+                  "pid":8478500,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":6,
+                  "playername":"Ivan Provorov",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Ivan Provorov",
+                  "pid2":8473553,
+                  "pid1":8478500
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"73",
+                  "hs":0,
+                  "desc":"Tyler Toffoli Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A399",
+                  "type":"Shot",
+                  "eventid":399,
+                  "hsog":18,
+                  "asog":17,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"16:22",
+                  "localtime":"9:24 PM",
+                  "teamid":26,
+                  "xcoord":-66,
+                  "strength":701,
+                  "as":3,
+                  "pid":8475726,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":15,
+                  "playername":"Tyler Toffoli",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Tyler Toffoli",
+                  "pid2":8473607,
+                  "pid1":8475726
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"74",
+                  "hs":0,
+                  "desc":"Dwight King hit Jakub Voracek",
+                  "formalEventId":"L.A282",
+                  "type":"Hit",
+                  "eventid":282,
+                  "hsog":18,
+                  "asog":17,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jakub Voracek",
+                  "time":"16:27",
+                  "localtime":"9:24 PM",
+                  "teamid":26,
+                  "xcoord":-80,
+                  "strength":701,
+                  "as":3,
+                  "pid":8474100,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-39,
+                  "playername":"Dwight King",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Dwight King",
+                  "pid2":8474161,
+                  "pid1":8474100
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474161,
+                     8476461,
+                     8478439,
+                     8478500
+                  ],
+                  "sweater":"11",
+                  "hs":0,
+                  "desc":"Travis Konecny Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A400",
+                  "type":"Shot",
+                  "eventid":400,
+                  "hsog":18,
+                  "asog":18,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"16:39",
+                  "localtime":"9:24 PM",
+                  "teamid":4,
+                  "xcoord":71,
+                  "strength":701,
+                  "as":3,
+                  "pid":8478439,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-2,
+                  "playername":"Travis Konecny",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Travis Konecny",
+                  "pid2":8473553,
+                  "pid1":8478439
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"12",
+                  "hs":0,
+                  "desc":"Michael Raffl Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A284",
+                  "type":"Shot",
+                  "eventid":284,
+                  "hsog":18,
+                  "asog":19,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"17:39",
+                  "localtime":"9:26 PM",
+                  "teamid":4,
+                  "xcoord":67,
+                  "strength":701,
+                  "as":3,
+                  "pid":8477290,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":17,
+                  "playername":"Michael Raffl",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Michael Raffl",
+                  "pid2":8473553,
+                  "pid1":8477290
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8476393,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"22",
+                  "hs":0,
+                  "desc":"Trevor Lewis hit Mark Streit",
+                  "formalEventId":"L.A285",
+                  "type":"Hit",
+                  "eventid":285,
+                  "hsog":18,
+                  "asog":19,
+                  "apb":[
+
+                  ],
+                  "p2name":"Mark Streit",
+                  "time":"17:55",
+                  "localtime":"9:27 PM",
+                  "teamid":26,
+                  "xcoord":60,
+                  "strength":701,
+                  "as":3,
+                  "pid":8473453,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-38,
+                  "playername":"Trevor Lewis",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Trevor Lewis",
+                  "pid2":8468309,
+                  "pid1":8473453
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8476393,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"32",
+                  "hs":0,
+                  "desc":"Mark Streit (1) Wrist Shot, assists: Ivan Provorov (1), Nick Cousins (2)",
+                  "formalEventId":"L.A506",
+                  "type":"Goal",
+                  "eventid":506,
+                  "hsog":18,
+                  "asog":19,
+                  "apb":[
+
+                  ],
+                  "p2name":"Ivan Provorov",
+                  "time":"18:03",
+                  "localtime":"9:28 PM",
+                  "teamid":4,
+                  "xcoord":86,
+                  "strength":701,
+                  "as":4,
+                  "pid":8468309,
+                  "period":2,
+                  "p3name":"Nick Cousins",
+                  "hpb":[
+
+                  ],
+                  "pid3":8476393,
+                  "ycoord":14,
+                  "playername":"Mark Streit",
+                  "hoi":[
+                     8470604,
+                     8473453,
+                     8473553,
+                     8473962,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Mark Streit",
+                  "pid2":8478500,
+                  "pid1":8468309
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8475430,
+                     8477290
+                  ],
+                  "sweater":"23",
+                  "hs":0,
+                  "desc":"Brandon Manning Slap Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A507",
+                  "type":"Shot",
+                  "eventid":507,
+                  "hsog":18,
+                  "asog":20,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"18:32",
+                  "localtime":"9:29 PM",
+                  "teamid":4,
+                  "xcoord":37,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475430,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-36,
+                  "playername":"Brandon Manning",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474166,
+                     8475188,
+                     8476406
+                  ],
+                  "p1name":"Brandon Manning",
+                  "pid2":8473553,
+                  "pid1":8475430
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"8",
+                  "hs":1,
+                  "desc":"Drew Doughty (1) Slap Shot, assists: Anze Kopitar (2)",
+                  "formalEventId":"L.A511",
+                  "type":"Goal",
+                  "eventid":511,
+                  "hsog":18,
+                  "asog":20,
+                  "apb":[
+
+                  ],
+                  "p2name":"Anze Kopitar",
+                  "time":"18:52",
+                  "localtime":"9:30 PM",
+                  "teamid":26,
+                  "xcoord":-38,
+                  "strength":701,
+                  "as":4,
+                  "pid":8474563,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-30,
+                  "playername":"Drew Doughty",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Drew Doughty",
+                  "pid2":8471685,
+                  "pid1":8474563
+               },
+               {
+                  "aoi":[
+                     8470159,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476177,
+                     8476906
+                  ],
+                  "sweater":"77",
+                  "hs":1,
+                  "desc":"Jeff Carter hit Andrew MacDonald",
+                  "formalEventId":"L.A289",
+                  "type":"Hit",
+                  "eventid":289,
+                  "hsog":18,
+                  "asog":20,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andrew MacDonald",
+                  "time":"19:29",
+                  "localtime":"9:32 PM",
+                  "teamid":26,
+                  "xcoord":-98,
+                  "strength":701,
+                  "as":4,
+                  "pid":8470604,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-2,
+                  "playername":"Jeff Carter",
+                  "hoi":[
+                     8470604,
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325
+                  ],
+                  "p1name":"Jeff Carter",
+                  "pid2":8473584,
+                  "pid1":8470604
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"13",
+                  "hs":1,
+                  "desc":"Kyle Clifford hit Chris VandeVelde",
+                  "formalEventId":"L.A456",
+                  "type":"Hit",
+                  "eventid":456,
+                  "hsog":18,
+                  "asog":20,
+                  "apb":[
+
+                  ],
+                  "p2name":"Chris VandeVelde",
+                  "time":"19:36",
+                  "localtime":"9:32 PM",
+                  "teamid":26,
+                  "xcoord":-13,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475160,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":36,
+                  "playername":"Kyle Clifford",
+                  "hoi":[
+                     8470604,
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325
+                  ],
+                  "p1name":"Kyle Clifford",
+                  "pid2":8471762,
+                  "pid1":8475160
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8476177,
+                     8478500
+                  ],
+                  "sweater":"24",
+                  "hs":1,
+                  "desc":"Matt Read Tip-In saved by Jeff Zatkoff",
+                  "formalEventId":"L.A513",
+                  "type":"Shot",
+                  "eventid":513,
+                  "hsog":18,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"19:41",
+                  "localtime":"9:32 PM",
+                  "teamid":4,
+                  "xcoord":82,
+                  "strength":701,
+                  "as":4,
+                  "pid":8476177,
+                  "period":2,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":7,
+                  "playername":"Matt Read",
+                  "hoi":[
+                     8470604,
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475188,
+                     8475325
+                  ],
+                  "p1name":"Matt Read",
+                  "pid2":8473553,
+                  "pid1":8476177
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"12",
+                  "hs":1,
+                  "desc":"Michael Raffl hit Jake Muzzin",
+                  "formalEventId":"L.A295",
+                  "type":"Hit",
+                  "eventid":295,
+                  "hsog":18,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jake Muzzin",
+                  "time":"00:36",
+                  "localtime":"9:51 PM",
+                  "teamid":4,
+                  "xcoord":-52,
+                  "strength":701,
+                  "as":4,
+                  "pid":8477290,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Michael Raffl",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Michael Raffl",
+                  "pid2":8474162,
+                  "pid1":8477290
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"11",
+                  "hs":1,
+                  "desc":"Anze Kopitar Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A516",
+                  "type":"Shot",
+                  "eventid":516,
+                  "hsog":19,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"00:38",
+                  "localtime":"9:51 PM",
+                  "teamid":26,
+                  "xcoord":61,
+                  "strength":701,
+                  "as":4,
+                  "pid":8471685,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":6,
+                  "playername":"Anze Kopitar",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Anze Kopitar",
+                  "pid2":8473607,
+                  "pid1":8471685
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8477930
+                  ],
+                  "sweater":"55",
+                  "hs":1,
+                  "desc":"Nick Schultz hit Dustin Brown",
+                  "formalEventId":"L.A297",
+                  "type":"Hit",
+                  "eventid":297,
+                  "hsog":19,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"01:46",
+                  "localtime":"9:53 PM",
+                  "teamid":4,
+                  "xcoord":94,
+                  "strength":701,
+                  "as":4,
+                  "pid":8468513,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-34,
+                  "playername":"Nick Schultz",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8476406
+                  ],
+                  "p1name":"Nick Schultz",
+                  "pid2":8470606,
+                  "pid1":8468513
+               },
+               {
+                  "aoi":[
+                     8471762,
+                     8473607,
+                     8475430,
+                     8476177,
+                     8476906,
+                     8477930
+                  ],
+                  "sweater":"71",
+                  "hs":1,
+                  "desc":"Jordan Nolan hit Pierre-Edouard Bellemare",
+                  "formalEventId":"L.A298",
+                  "type":"Hit",
+                  "eventid":298,
+                  "hsog":19,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Pierre-Edouard Bellemare",
+                  "time":"02:11",
+                  "localtime":"9:53 PM",
+                  "teamid":26,
+                  "xcoord":59,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475325,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":41,
+                  "playername":"Jordan Nolan",
+                  "hoi":[
+                     8470606,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475325,
+                     8476406
+                  ],
+                  "p1name":"Jordan Nolan",
+                  "pid2":8477930,
+                  "pid1":8475325
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"3",
+                  "hs":2,
+                  "desc":"Brayden McNabb (1) Slap Shot, assists: Alec Martinez (1), Dwight King (1)",
+                  "formalEventId":"L.A519",
+                  "type":"Goal",
+                  "eventid":519,
+                  "hsog":19,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Alec Martinez",
+                  "time":"03:01",
+                  "localtime":"9:55 PM",
+                  "teamid":26,
+                  "xcoord":35,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475188,
+                  "period":3,
+                  "p3name":"Dwight King",
+                  "hpb":[
+
+                  ],
+                  "pid3":8474100,
+                  "ycoord":23,
+                  "playername":"Brayden McNabb",
+                  "hoi":[
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8475726
+                  ],
+                  "p1name":"Brayden McNabb",
+                  "pid2":8474166,
+                  "pid1":8475188
+               },
+               {
+                  "aoi":[
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8476906,
+                     8478439
+                  ],
+                  "sweater":"11",
+                  "hs":2,
+                  "desc":"Travis Konecny hit Devin Setoguchi",
+                  "formalEventId":"L.A602",
+                  "type":"Hit",
+                  "eventid":602,
+                  "hsog":19,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Devin Setoguchi",
+                  "time":"03:42",
+                  "localtime":"9:56 PM",
+                  "teamid":4,
+                  "xcoord":-10,
+                  "strength":701,
+                  "as":4,
+                  "pid":8478439,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-38,
+                  "playername":"Travis Konecny",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8473553,
+                     8474162,
+                     8474166,
+                     8476406
+                  ],
+                  "p1name":"Travis Konecny",
+                  "pid2":8471682,
+                  "pid1":8478439
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"71",
+                  "hs":2,
+                  "desc":"Jordan Nolan Interference against Chris VandeVelde",
+                  "formalEventId":"L.A604",
+                  "type":"Penalty",
+                  "hsog":19,
+                  "eventid":604,
+                  "asog":21,
+                  "apb":[
+
+                  ],
+                  "p2name":"Chris VandeVelde",
+                  "time":"05:08",
+                  "localtime":"9:58 PM",
+                  "teamid":26,
+                  "xcoord":12,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475325,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+                     8475325
+                  ],
+                  "pid3":"",
+                  "ycoord":-16,
+                  "dur":2,
+                  "playername":"Jordan Nolan",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8475160,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Jordan Nolan",
+                  "pid2":8471762,
+                  "pid1":8475325
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"53",
+                  "hs":2,
+                  "desc":"Shayne Gostisbehere Slap Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A524",
+                  "type":"Shot",
+                  "eventid":524,
+                  "hsog":19,
+                  "asog":22,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"05:30",
+                  "localtime":"10:00 PM",
+                  "teamid":4,
+                  "xcoord":-35,
+                  "strength":702,
+                  "as":4,
+                  "pid":8476906,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+                     8475325
+                  ],
+                  "pid3":"",
+                  "ycoord":-25,
+                  "playername":"Shayne Gostisbehere",
+                  "hoi":[
+                     8470606,
+                     8471685,
+                     8473553,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Shayne Gostisbehere",
+                  "pid2":8473553,
+                  "pid1":8476906
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"93",
+                  "hs":2,
+                  "desc":"Jakub Voracek Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A526",
+                  "type":"Shot",
+                  "eventid":526,
+                  "hsog":19,
+                  "asog":23,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"05:37",
+                  "localtime":"10:00 PM",
+                  "teamid":4,
+                  "xcoord":-37,
+                  "strength":702,
+                  "as":4,
+                  "pid":8474161,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":31,
+                  "playername":"Jakub Voracek",
+                  "hoi":[
+                     8470604,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Jakub Voracek",
+                  "pid2":8473553,
+                  "pid1":8474161
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473607,
+                     8474161,
+                     8474190,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"3",
+                  "hs":2,
+                  "desc":"Brayden McNabb hit Wayne Simmonds",
+                  "formalEventId":"L.A607",
+                  "type":"Hit",
+                  "eventid":607,
+                  "hsog":19,
+                  "asog":23,
+                  "apb":[
+
+                  ],
+                  "p2name":"Wayne Simmonds",
+                  "time":"06:57",
+                  "localtime":"10:03 PM",
+                  "teamid":26,
+                  "xcoord":-59,
+                  "strength":703,
+                  "as":4,
+                  "pid":8475188,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":38,
+                  "playername":"Brayden McNabb",
+                  "hoi":[
+                     8473553,
+                     8474100,
+                     8474166,
+                     8475188,
+                     8476406
+                  ],
+                  "p1name":"Brayden McNabb",
+                  "pid2":8474190,
+                  "pid1":8475188
+               },
+               {
+                  "aoi":[
+                     8473607,
+                     8474190,
+                     8474668,
+                     8475430,
+                     8476393,
+                     8476906
+                  ],
+                  "sweater":"53",
+                  "hs":2,
+                  "desc":"Shayne Gostisbehere hit Drew Doughty",
+                  "formalEventId":"L.A463",
+                  "type":"Hit",
+                  "eventid":463,
+                  "hsog":19,
+                  "asog":23,
+                  "apb":[
+
+                  ],
+                  "p2name":"Drew Doughty",
+                  "time":"07:34",
+                  "localtime":"10:03 PM",
+                  "teamid":4,
+                  "xcoord":44,
+                  "strength":701,
+                  "as":4,
+                  "pid":8476906,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":39,
+                  "playername":"Shayne Gostisbehere",
+                  "hoi":[
+                     8471682,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474563,
+                     8475188
+                  ],
+                  "p1name":"Shayne Gostisbehere",
+                  "pid2":8474563,
+                  "pid1":8476906
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8475430,
+                     8476177
+                  ],
+                  "sweater":"55",
+                  "hs":2,
+                  "desc":"Nick Schultz hit Dustin Brown",
+                  "formalEventId":"L.A609",
+                  "type":"Hit",
+                  "eventid":609,
+                  "hsog":19,
+                  "asog":23,
+                  "apb":[
+
+                  ],
+                  "p2name":"Dustin Brown",
+                  "time":"07:55",
+                  "localtime":"10:04 PM",
+                  "teamid":4,
+                  "xcoord":34,
+                  "strength":701,
+                  "as":4,
+                  "pid":8468513,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-5,
+                  "playername":"Nick Schultz",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8471685,
+                     8473553,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Nick Schultz",
+                  "pid2":8470606,
+                  "pid1":8468513
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8470159,
+                     8471762,
+                     8473607,
+                     8475430,
+                     8476177
+                  ],
+                  "sweater":"23",
+                  "hs":2,
+                  "desc":"Dustin Brown hit Matt Read",
+                  "formalEventId":"L.A464",
+                  "type":"Hit",
+                  "eventid":464,
+                  "hsog":19,
+                  "asog":23,
+                  "apb":[
+
+                  ],
+                  "p2name":"Matt Read",
+                  "time":"08:06",
+                  "localtime":"10:04 PM",
+                  "teamid":26,
+                  "xcoord":-4,
+                  "strength":701,
+                  "as":4,
+                  "pid":8470606,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-40,
+                  "playername":"Dustin Brown",
+                  "hoi":[
+                     8470121,
+                     8470606,
+                     8471682,
+                     8471685,
+                     8473553,
+                     8474162
+                  ],
+                  "p1name":"Dustin Brown",
+                  "pid2":8476177,
+                  "pid1":8470606
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8474668,
+                     8476906,
+                     8477290,
+                     8477930
+                  ],
+                  "sweater":"24",
+                  "hs":2,
+                  "desc":"Derek Forbort hit Andrew MacDonald",
+                  "formalEventId":"L.A610",
+                  "type":"Hit",
+                  "eventid":610,
+                  "hsog":19,
+                  "asog":23,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andrew MacDonald",
+                  "time":"08:43",
+                  "localtime":"10:04 PM",
+                  "teamid":26,
+                  "xcoord":94,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475762,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":18,
+                  "playername":"Derek Forbort",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Derek Forbort",
+                  "pid2":8473584,
+                  "pid1":8475762
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8477290,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"12",
+                  "hs":2,
+                  "desc":"Michael Raffl Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A530",
+                  "type":"Shot",
+                  "eventid":530,
+                  "hsog":19,
+                  "asog":24,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"08:57",
+                  "localtime":"10:05 PM",
+                  "teamid":4,
+                  "xcoord":-70,
+                  "strength":701,
+                  "as":4,
+                  "pid":8477290,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-3,
+                  "playername":"Michael Raffl",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474166,
+                     8475160,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Michael Raffl",
+                  "pid2":8473553,
+                  "pid1":8477290
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8477290,
+                     8477930,
+                     8478500
+                  ],
+                  "sweater":"27",
+                  "hs":2,
+                  "desc":"Alec Martinez hit Michael Raffl",
+                  "formalEventId":"L.A611",
+                  "type":"Hit",
+                  "eventid":611,
+                  "hsog":19,
+                  "asog":24,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michael Raffl",
+                  "time":"09:18",
+                  "localtime":"10:05 PM",
+                  "teamid":26,
+                  "xcoord":-97,
+                  "strength":701,
+                  "as":4,
+                  "pid":8474166,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-22,
+                  "playername":"Alec Martinez",
+                  "hoi":[
+                     8473453,
+                     8473553,
+                     8474166,
+                     8475325,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Alec Martinez",
+                  "pid2":8477290,
+                  "pid1":8474166
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8478439
+                  ],
+                  "sweater":"73",
+                  "hs":2,
+                  "desc":"Tyler Toffoli hit Brandon Manning",
+                  "formalEventId":"L.A612",
+                  "type":"Hit",
+                  "eventid":612,
+                  "hsog":19,
+                  "asog":24,
+                  "apb":[
+
+                  ],
+                  "p2name":"Brandon Manning",
+                  "time":"10:07",
+                  "localtime":"10:08 PM",
+                  "teamid":26,
+                  "xcoord":94,
+                  "strength":701,
+                  "as":4,
+                  "pid":8475726,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":25,
+                  "playername":"Tyler Toffoli",
+                  "hoi":[
+                     8470604,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Tyler Toffoli",
+                  "pid2":8475430,
+                  "pid1":8475726
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"11",
+                  "hs":2,
+                  "desc":"Anze Kopitar Snap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A534",
+                  "type":"Shot",
+                  "eventid":534,
+                  "hsog":20,
+                  "asog":24,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"10:42",
+                  "localtime":"10:09 PM",
+                  "teamid":26,
+                  "xcoord":69,
+                  "strength":701,
+                  "as":4,
+                  "pid":8471685,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":14,
+                  "playername":"Anze Kopitar",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8471685,
+                     8473553,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Anze Kopitar",
+                  "pid2":8473607,
+                  "pid1":8471685
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"47",
+                  "hs":2,
+                  "desc":"Andrew MacDonald Holding against Anze Kopitar",
+                  "formalEventId":"L.A614",
+                  "type":"Penalty",
+                  "hsog":20,
+                  "eventid":614,
+                  "asog":24,
+                  "apb":[
+                     8473584
+                  ],
+                  "p2name":"Anze Kopitar",
+                  "time":"10:53",
+                  "localtime":"10:10 PM",
+                  "teamid":4,
+                  "xcoord":97,
+                  "strength":701,
+                  "as":4,
+                  "pid":8473584,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-28,
+                  "dur":2,
+                  "playername":"Andrew MacDonald",
+                  "hoi":[
+                     8470606,
+                     8471682,
+                     8471685,
+                     8473553,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Andrew MacDonald",
+                  "pid2":8471685,
+                  "pid1":8473584
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473607,
+                     8474668,
+                     8476393,
+                     8476461,
+                     8478500
+                  ],
+                  "sweater":"32",
+                  "hs":2,
+                  "desc":"Mark Streit Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A540",
+                  "type":"Shot",
+                  "eventid":540,
+                  "hsog":20,
+                  "asog":25,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"13:34",
+                  "localtime":"10:15 PM",
+                  "teamid":4,
+                  "xcoord":-60,
+                  "strength":701,
+                  "as":4,
+                  "pid":8468309,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":26,
+                  "playername":"Mark Streit",
+                  "hoi":[
+                     8470121,
+                     8473553,
+                     8475160,
+                     8475726,
+                     8475762,
+                     8476404
+                  ],
+                  "p1name":"Mark Streit",
+                  "pid2":8473553,
+                  "pid1":8468309
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"6",
+                  "hs":2,
+                  "desc":"Jake Muzzin Snap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A541",
+                  "type":"Shot",
+                  "eventid":541,
+                  "hsog":21,
+                  "asog":25,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"14:33",
+                  "localtime":"10:16 PM",
+                  "teamid":26,
+                  "xcoord":61,
+                  "strength":701,
+                  "as":4,
+                  "pid":8474162,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-9,
+                  "playername":"Jake Muzzin",
+                  "hoi":[
+                     8470606,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Jake Muzzin",
+                  "pid2":8473607,
+                  "pid1":8474162
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"8",
+                  "hs":2,
+                  "desc":"Drew Doughty Wrist Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A618",
+                  "type":"Shot",
+                  "eventid":618,
+                  "hsog":22,
+                  "asog":25,
+                  "apb":[
+
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"14:35",
+                  "localtime":"10:16 PM",
+                  "teamid":26,
+                  "xcoord":61,
+                  "strength":701,
+                  "as":4,
+                  "pid":8474563,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":13,
+                  "playername":"Drew Doughty",
+                  "hoi":[
+                     8470606,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Drew Doughty",
+                  "pid2":8473607,
+                  "pid1":8474563
+               },
+               {
+                  "aoi":[
+                     8468309,
+                     8473512,
+                     8473607,
+                     8474190,
+                     8477290,
+                     8478500
+                  ],
+                  "sweater":"28",
+                  "hs":2,
+                  "desc":"Claude Giroux Wrist Shot saved by Jeff Zatkoff",
+                  "formalEventId":"L.A542",
+                  "type":"Shot",
+                  "eventid":542,
+                  "hsog":22,
+                  "asog":26,
+                  "apb":[
+
+                  ],
+                  "p2name":"Jeff Zatkoff",
+                  "time":"14:52",
+                  "localtime":"10:16 PM",
+                  "teamid":4,
+                  "xcoord":-49,
+                  "strength":701,
+                  "as":4,
+                  "pid":8473512,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":10,
+                  "playername":"Claude Giroux",
+                  "hoi":[
+                     8470606,
+                     8471685,
+                     8473553,
+                     8474100,
+                     8474162,
+                     8474563
+                  ],
+                  "p1name":"Claude Giroux",
+                  "pid2":8473553,
+                  "pid1":8473512
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8473607,
+                     8474161,
+                     8475430,
+                     8476461,
+                     8477290
+                  ],
+                  "sweater":"12",
+                  "hs":2,
+                  "desc":"Michael Raffl hit Trevor Lewis",
+                  "formalEventId":"L.A619",
+                  "type":"Hit",
+                  "eventid":619,
+                  "hsog":22,
+                  "asog":26,
+                  "apb":[
+
+                  ],
+                  "p2name":"Trevor Lewis",
+                  "time":"15:42",
+                  "localtime":"10:19 PM",
+                  "teamid":4,
+                  "xcoord":88,
+                  "strength":701,
+                  "as":4,
+                  "pid":8477290,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":34,
+                  "playername":"Michael Raffl",
+                  "hoi":[
+                     8470604,
+                     8471682,
+                     8473453,
+                     8473553,
+                     8474166,
+                     8475188
+                  ],
+                  "p1name":"Michael Raffl",
+                  "pid2":8473453,
+                  "pid1":8477290
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"28",
+                  "hs":2,
+                  "desc":"Claude Giroux hit Tyler Toffoli",
+                  "formalEventId":"L.A621",
+                  "type":"Hit",
+                  "eventid":621,
+                  "hsog":22,
+                  "asog":26,
+                  "apb":[
+
+                  ],
+                  "p2name":"Tyler Toffoli",
+                  "time":"16:45",
+                  "localtime":"10:21 PM",
+                  "teamid":4,
+                  "xcoord":96,
+                  "strength":701,
+                  "as":4,
+                  "pid":8473512,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-26,
+                  "playername":"Claude Giroux",
+                  "hoi":[
+                     8470606,
+                     8471685,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Claude Giroux",
+                  "pid2":8475726,
+                  "pid1":8473512
+               },
+               {
+                  "aoi":[
+                     8473512,
+                     8473584,
+                     8473607,
+                     8474190,
+                     8476906,
+                     8477290
+                  ],
+                  "sweater":"23",
+                  "hs":2,
+                  "desc":"Dustin Brown hit Andrew MacDonald",
+                  "formalEventId":"L.A622",
+                  "type":"Hit",
+                  "eventid":622,
+                  "hsog":22,
+                  "asog":26,
+                  "apb":[
+
+                  ],
+                  "p2name":"Andrew MacDonald",
+                  "time":"16:59",
+                  "localtime":"10:21 PM",
+                  "teamid":26,
+                  "xcoord":93,
+                  "strength":701,
+                  "as":4,
+                  "pid":8470606,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-35,
+                  "playername":"Dustin Brown",
+                  "hoi":[
+                     8470606,
+                     8471685,
+                     8473553,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Dustin Brown",
+                  "pid2":8473584,
+                  "pid1":8470606
+               },
+               {
+                  "aoi":[
+                     8473584,
+                     8473607,
+                     8474161,
+                     8474668,
+                     8476461,
+                     8476906
+                  ],
+                  "sweater":"22",
+                  "hs":2,
+                  "desc":"Dale Weise Hooking against Jake Muzzin",
+                  "formalEventId":"L.A624",
+                  "type":"Penalty",
+                  "hsog":22,
+                  "eventid":624,
+                  "asog":26,
+                  "apb":[
+                     8474668
+                  ],
+                  "p2name":"Jake Muzzin",
+                  "time":"19:00",
+                  "localtime":"10:25 PM",
+                  "teamid":4,
+                  "xcoord":-3,
+                  "strength":701,
+                  "as":4,
+                  "pid":8474668,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+
+                  ],
+                  "pid3":"",
+                  "ycoord":-5,
+                  "dur":2,
+                  "playername":"Dale Weise",
+                  "hoi":[
+                     8470604,
+                     8471682,
+                     8471685,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Dale Weise",
+                  "pid2":8474162,
+                  "pid1":8474668
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8470159,
+                     8473584,
+                     8473607,
+                     8477930
+                  ],
+                  "sweater":"6",
+                  "hs":2,
+                  "desc":"Jake Muzzin Interference against Dale Weise",
+                  "formalEventId":"L.A626",
+                  "type":"Penalty",
+                  "hsog":22,
+                  "eventid":626,
+                  "asog":26,
+                  "apb":[
+                     8474668
+                  ],
+                  "p2name":"Dale Weise",
+                  "time":"19:00",
+                  "localtime":"10:25 PM",
+                  "teamid":26,
+                  "xcoord":-11,
+                  "strength":701,
+                  "as":4,
+                  "pid":8474162,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+                     8474162
+                  ],
+                  "pid3":"",
+                  "ycoord":15,
+                  "dur":2,
+                  "playername":"Jake Muzzin",
+                  "hoi":[
+                     8470604,
+                     8471682,
+                     8471685,
+                     8474162,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Jake Muzzin",
+                  "pid2":8474668,
+                  "pid1":8474162
+               },
+               {
+                  "aoi":[
+                     8468513,
+                     8471762,
+                     8473584,
+                     8473607,
+                     8476461
+                  ],
+                  "sweater":"77",
+                  "hs":2,
+                  "desc":"Jeff Carter Slap Shot saved by Michal Neuvirth",
+                  "formalEventId":"L.A703",
+                  "type":"Shot",
+                  "eventid":703,
+                  "hsog":23,
+                  "asog":26,
+                  "apb":[
+                     8474668
+                  ],
+                  "p2name":"Michal Neuvirth",
+                  "time":"19:39",
+                  "localtime":"10:26 PM",
+                  "teamid":26,
+                  "xcoord":70,
+                  "strength":701,
+                  "as":4,
+                  "pid":8470604,
+                  "period":3,
+                  "p3name":"",
+                  "hpb":[
+                     8474162
+                  ],
+                  "pid3":"",
+                  "ycoord":-8,
+                  "playername":"Jeff Carter",
+                  "hoi":[
+                     8470604,
+                     8471685,
+                     8474166,
+                     8474563,
+                     8475726
+                  ],
+                  "p1name":"Jeff Carter",
+                  "pid2":8473607,
+                  "pid1":8470604
+               }
+            ]
+         },
+         "awayteamnick":"Flyers",
+         "hometeamnick":"Kings",
+         "hometeamid":26
+      }
+   }
+}

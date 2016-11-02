@@ -8,6 +8,14 @@ https://github.com/scottwasserman/Sixers-Jawn
 Most of the skill configuration is the same and was much easier to build because, unlike Sixers Jawn (check the link above for the details of my challenges), I quickly found a url to get the data:
 http://live.nhle.com/GameData/RegularSeasonScoreboardv3.jsonp
 
+>> We'll so I thought! This pretty much only gives games today or yesterday.  So I had to go back to the drawing board.
+Here's what I came up with. First I figured out how to find the games for today:
+http://live.nhle.com/GameData/GCScoreboard/2016-11-01.jsonp
+I was able to parse through the response and get any Flyers scores for that day. It also contains what the previous game day was.
+If I didn't find Flyers scores for that day I kept checking the previous game day until I found a score.
+I didn't want to do this every time so I create a tmp file with the current date.  When my WhatsUpIntent intent handler is called I look to see if there's a file with today's date there. If I do I use the string in there to give the scores response. If I don't find it then I follow the process above then write the scores respone into the file with today's date.  That's it!
+
+
 I reused all the win, lose and error phrases from Sixers Jawn to get the bot talking more casually. Here's the phrases:
 ``` JavaScript
 var ERROR_MESSAGES = [

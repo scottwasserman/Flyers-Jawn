@@ -94,13 +94,33 @@ function handleHelpRequest(response) {
 
 
 function handleWhatsUpRequest(response) { 
-    getGameLog(response);
+    checkForCache(response);
 }
 
-function getGameLog(response) {
+function checkForCache(response) {
+    var date_string = new Date().toISOString().substring(0, 10);
+    console.log(date_string);
+    var fs = require("fs");
+    if ( fs.existsSync('/tmp/'+ date_string) ){
+        var gameResultsString = fs.readFileSync('/tmp/'+ date_string, "utf8");
+        if (gameResultsString === null || gameResultsString == "") {
+            getGameLog(response,date_string);
+        }
+        else {
+            response.tell(gameResultsString);
+        }
+    }
+    else {
+        console.log("not found");
+        getGameLog(response,date_string);
+    }
+}
+
+function getGameLog(response,date_string) {
     var http = require('http');
-    var url = "http://live.nhle.com/GameData/RegularSeasonScoreboardv3.jsonp";
-    
+    var url = "http://live.nhle.com/GameData/GCScoreboard/" + date_string + ".jsonp";
+    console.log(url);
+
     http.get(url, function(http_response) {
         var finalData = "";
 
@@ -120,71 +140,86 @@ function getGameLog(response) {
 
 function handleGameLogCallback(response,data) {
     var startPos = data.indexOf('({');
-    var endPos = data.indexOf('})');
-    var jsonString = data.substring(startPos+1, endPos+1);
-    var jsonData = JSON.parse(jsonString);
-
-    var opponentNickname = null;
-    var opponentScore = null;
-    var flyersScore = null;
-    var gameDateString = null;
-    
-    for (var i=0;i < jsonData.games.length;i++) {
-        if (jsonData.games[i].htn == "Philadelphia" || jsonData.games[i].atn == "Philadelphia") {
-            if (jsonData.games[i].tsc == "final") {
-                //console.log(jsonData.games[i]);
-                gameDateString = jsonData.games[i].ts;
-                if (jsonData.games[i].htn == "Philadelphia") {
-                    opponentNickname = jsonData.games[i].atv;
-                    opponentScore = jsonData.games[i].ats;
-                    flyersScore = jsonData.games[i].hts;
-                }
-                else {
-                    opponentNickname = jsonData.games[i].htv;
-                    opponentScore = jsonData.games[i].hts;
-                    flyersScore = jsonData.games[i].ats;
-                }
-                break;
-            }
-            
-        }
+    if (startPos < 0) {
+        weFailed(response);
     }
+    else {
+        var endPos = data.indexOf('})');
+        var jsonString = data.substring(startPos+1, endPos+1);
+        var jsonData = JSON.parse(jsonString);
 
-    var whenWasTheGame = null;
-    var gameDate = Date.parse(gameDateString);
-    var rawDate = new Date();
-    var today = new Date(rawDate.getFullYear(),rawDate.getMonth(),rawDate.getDate());
-    var dateDifference = today-gameDate;
-    var oneDayEpoch = 24*60*60*1000;
-    var daysAgo = (dateDifference/oneDayEpoch).toFixed();
 
-    var whenWasTheGame = null;
-    if (gameDate < today) {
-        if (daysAgo == 1) {
-            whenWasTheGame = "Yesterday";
-        }
-        else {
-            whenWasTheGame = "The other day";
+        var opponentNickname = null;
+        var opponentScore = null;
+        var flyersScore = null;
+        var gameDateString = jsonData.currentDate;
+        
+        for (var i=0;i < jsonData.games.length;i++) {
+            if (jsonData.games[i].htn == "PHILADELPHIA" || jsonData.games[i].atn == "PHILADELPHIA") {
+                if (jsonData.games[i].bs == "FINAL") {
+                    if (jsonData.games[i].htn == "PHILADELPHIA") {
+                        opponentNickname = jsonData.games[i].htcommon;
+                        opponentScore = jsonData.games[i].ats;
+                        flyersScore = jsonData.games[i].hts;
+                    }
+                    else {
+                        opponentNickname = jsonData.games[i].htcommon;
+                        opponentScore = jsonData.games[i].hts;
+                        flyersScore = jsonData.games[i].ats;
+                    }
+                    break;
+                }
+                
+            }
         }
         
-    }
-    else {
-        whenWasTheGame = "Today";
-    }
+        if (flyersScore === null) {
+            var previousGameDateString = new Date(jsonData.prevDate).toISOString().substring(0, 10);
+            console.log(previousGameDateString);
+            getGameLog(response,previousGameDateString);
+        }
+        else {
 
-    var gameResultsString = null;
+            var whenWasTheGame = null;
+            var gameDate = Date.parse(gameDateString);
+            var rawDate = new Date();
+            var today = new Date(rawDate.getFullYear(),rawDate.getMonth(),rawDate.getDate());
+            var dateDifference = today-gameDate;
+            var oneDayEpoch = 24*60*60*1000;
+            var daysAgo = (dateDifference/oneDayEpoch).toFixed();
 
-    if (flyersScore > opponentScore) {
-        winning = true;
-        gameResultsString = randomMessageByType("WIN") + " " + whenWasTheGame + " The Flyers beat The" + opponentNickname + " " + flyersScore + " to " + opponentScore + ".";
+            var whenWasTheGame = null;
+            if (gameDate < today) {
+                if (daysAgo == 1) {
+                    whenWasTheGame = "Yesterday";
+                }
+                else {
+                    whenWasTheGame = "The other day";
+                }
+                
+            }
+            else {
+                whenWasTheGame = "Today";
+            }
+
+            var gameResultsString = null;
+
+            if (flyersScore > opponentScore) {
+                winning = true;
+                gameResultsString = randomMessageByType("WIN") + " " + whenWasTheGame + " The Flyers beat The " + opponentNickname + " " + flyersScore + " to " + opponentScore + ".";
+            }
+            else {
+                winning = false;
+                gameResultsString = randomMessageByType("LOSE") + " " + whenWasTheGame + " The Flyers lost to The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
+            }
+            
+            var current_file_date = new Date().toISOString().substring(0, 10);
+            var fs = require("fs");
+            fs.writeFileSync( '/tmp/' + current_file_date,gameResultsString, "utf8")
+            console.log(gameResultsString);
+            response.tell(gameResultsString);
+        }
     }
-    else {
-        winning = false;
-        gameResultsString = randomMessageByType("LOSE") + " " + whenWasTheGame + " The Flyers lost to The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
-    }
-    
-    console.log(gameResultsString);
-    response.tell(gameResultsString);
 }
 
 function randomMessageByType(messageType) {
@@ -208,7 +243,7 @@ function randomMessageByType(messageType) {
 
 function weFailed(response,err) {    
     var errorString =  randomMessageByType("ERROR") + " I can't get the scores right now. Try back in a bit.";
-    console.log(gameResultsString);
+    console.log(errorString);
     response.tell(errorString);
 }
 
