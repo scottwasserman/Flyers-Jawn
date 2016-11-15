@@ -16,20 +16,31 @@ var ERROR_MESSAGES = [
 
 var WIN_MESSAGES = [
     "Yes!",
-    "Alright, Alright, Alright!",
+    "Alright! Alright! Alright!",
     "Philly in the house!",
     "Philly won up in here!",
     "In your face!",
-    "Go Philly!"
+    "Go Philly!",
+    "Yeah boy!",
+    "We got this!"
+];
+
+var TIE_MESSAGES = [
+    "Meh!",
+    "Could be worse!",
+    "At least we didn't lose!",
+    "Oh well!",
+    "We could have done better!",
 ];
 
 var LOSE_MESSAGES = [
     "We'll get them next time!",
     "Dang!",
     "Come on Philly!",
-    "Sucks!",
+    "Yeah that Sucks!",
     "What the heck!",
-    "Disapointing!"
+    "Disapointing!",
+    "Doh!"
 ];
 
 /**
@@ -99,15 +110,22 @@ function handleWhatsUpRequest(response) {
 
 function checkForCache(response) {
     var date_string = new Date().toISOString().substring(0, 10);
-    console.log(date_string);
     var fs = require("fs");
     if ( fs.existsSync('/tmp/'+ date_string) ){
-        var gameResultsString = fs.readFileSync('/tmp/'+ date_string, "utf8");
-        if (gameResultsString === null || gameResultsString == "") {
+        var storedGameResultsString = fs.readFileSync('/tmp/'+ date_string, "utf8");
+        if (storedGameResultsString === null || storedGameResultsString == "") {
             getGameLog(response,date_string);
         }
         else {
-            response.tell(gameResultsString);
+            var storedGameResultsStringSplit = storedGameResultsString.split("::");
+            if (storedGameResultsStringSplit[1] == null) {
+                getGameLog(response,date_string);
+            }
+            else {
+                gameResultsString = randomMessageByType(storedGameResultsStringSplit[0]) + " " + storedGameResultsStringSplit[1];
+                //console.log(gameResultsString);
+                response.tell(gameResultsString);
+            }
         }
     }
     else {
@@ -154,11 +172,12 @@ function handleGameLogCallback(response,data) {
         var flyersScore = null;
         var gameDateString = jsonData.currentDate;
         
-        for (var i=0;i < jsonData.games.length;i++) {
+         for (var i=0;i < jsonData.games.length;i++) {
             if (jsonData.games[i].htn == "PHILADELPHIA" || jsonData.games[i].atn == "PHILADELPHIA") {
+                //console.log(jsonData.games[i].htcommon + " " + jsonData.games[i].atcommon);
                 if (jsonData.games[i].bs == "FINAL") {
                     if (jsonData.games[i].htn == "PHILADELPHIA") {
-                        opponentNickname = jsonData.games[i].htcommon;
+                        opponentNickname = jsonData.games[i].atcommon;
                         opponentScore = jsonData.games[i].ats;
                         flyersScore = jsonData.games[i].hts;
                     }
@@ -169,13 +188,12 @@ function handleGameLogCallback(response,data) {
                     }
                     break;
                 }
-                
             }
         }
         
         if (flyersScore === null) {
             var previousGameDateString = new Date(jsonData.prevDate).toISOString().substring(0, 10);
-            console.log(previousGameDateString);
+            // console.log(previousGameDateString);
             getGameLog(response,previousGameDateString);
         }
         else {
@@ -203,19 +221,30 @@ function handleGameLogCallback(response,data) {
             }
 
             var gameResultsString = null;
+            var gameResultsToStoreString = null;
 
             if (flyersScore > opponentScore) {
                 winning = true;
+                gameResultsToStoreString =  "WIN::" + whenWasTheGame + " The Flyers beat The " + opponentNickname + " " + flyersScore + " to " + opponentScore + ".";
                 gameResultsString = randomMessageByType("WIN") + " " + whenWasTheGame + " The Flyers beat The " + opponentNickname + " " + flyersScore + " to " + opponentScore + ".";
             }
             else {
-                winning = false;
-                gameResultsString = randomMessageByType("LOSE") + " " + whenWasTheGame + " The Flyers lost to The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
+                if (flyersScore == opponentScore) {
+                    winning = false;
+                    gameResultsToStoreString = "TIE::" + whenWasTheGame + " The Flyers tied The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
+                    gameResultsString = randomMessageByType("TIE") + " " + whenWasTheGame + " The Flyers tied The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
+                }
+                else {
+                    winning = false;
+                    gameResultsToStoreString = "LOSE::" + whenWasTheGame + " The Flyers lost to The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
+                    gameResultsString = randomMessageByType("LOSE") + " " + whenWasTheGame + " The Flyers lost to The " + opponentNickname + " " + opponentScore + " to " + flyersScore + ".";
+                }
+                
             }
             
             var current_file_date = new Date().toISOString().substring(0, 10);
             var fs = require("fs");
-            fs.writeFileSync( '/tmp/' + current_file_date,gameResultsString, "utf8")
+            fs.writeFileSync( '/tmp/' + current_file_date,gameResultsToStoreString, "utf8")
             console.log(gameResultsString);
             response.tell(gameResultsString);
         }
@@ -233,6 +262,12 @@ function randomMessageByType(messageType) {
         var loseMessageIndex = Math.floor(Math.random() * LOSE_MESSAGES.length);
         var randomLoseMessage = LOSE_MESSAGES[loseMessageIndex];
         return randomLoseMessage;
+    }
+
+    if (messageType = "TIE") {
+        var tieMessageIndex = Math.floor(Math.random() * TIE_MESSAGES.length);
+        var randomTieMessage = TIE_MESSAGES[tieMessageIndex];
+        return randomTieMessage;
     }
 
     if (messageType = "ERROR") {
